@@ -17,5 +17,5 @@ encrypt anything important because:
 
 Usage:
     
-    1. Encryption: ./file_encryptor -e plaintext ciphertext key(0-1023)
-    2. Decryption: ./file_encryptor -d ciphertext plaintext key(0-1023)
+    1. Encryption: ./file_encryptor.py -e plaintext ciphertext key(0-1023)
+    2. Decryption: ./file_encryptor.py -d ciphertext plaintext key(0-1023)
